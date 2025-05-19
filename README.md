@@ -1,1 +1,2 @@
 # excursion
+Excursion is a lightweight static landing page built with semantic HTML5 and custom CSS to faithfully replicate a provided design mock. It features a responsive header with a clear call‑to‑action, an embedded MP4 video player for engaging multimedia, and centered images—a scenic landscape and a subtle cellphone icon—to guide the user’s focus. All assets (stylesheets, images, and videos) are neatly organized under a resources directory.
